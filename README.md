@@ -1,4 +1,6 @@
 # Frogger-Game
+## Note: To play this you must run the given code on processing( can download it from https://processing.org ).
+
 ### A singleplayer arcade game
 
 ##### Frogger is a game in which a frog crosses a road without hitting the obstacle.
