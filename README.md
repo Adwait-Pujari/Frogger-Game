@@ -7,4 +7,4 @@ A Simple version of frogger is created where an circular object crosses the road
 
 With every level the diffculty of the game increases. 
 
-Once the circular object hits an obstacle **GAME OVER**
+Once the circular object hits an obstacle **GAME OVER**.
